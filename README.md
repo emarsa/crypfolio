@@ -12,3 +12,4 @@ NEO 17.52
 EUR 105.25
 
 Functions are provided for updating, ploting and portfolio value calculation.
+Fake input file and DataFrame provided. Note that prices in the dataframe are made-up.
