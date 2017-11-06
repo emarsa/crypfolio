@@ -7,11 +7,8 @@ Input file has currency symbol followed by amount. One currency per line. It adm
 Example:
 
 BTC 0.025
-
 ETH 1.245
-
 NEO 17.52
-
 EUR 105.25
 
 Functions are provided for updating, ploting and portfolio value calculation.
